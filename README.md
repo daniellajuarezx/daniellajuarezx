@@ -2,11 +2,13 @@
 ## Contact Information 👋
 **Daniella Juarez** <br/>
 *daniellajuarezx@outlook.com* <br/>
-https://www.linkedin.com/in/daniellajuarezx/* <br/>
+https://www.linkedin.com/in/daniellajuarezx/ <br/>
 817-480-1314
 # Technologies
 - HTML
 - CSS
+- JavaScript
+- Bootstrap
 # Experience
 * U.S. Air Force
   * Barksdale AFB, LA
